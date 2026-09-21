@@ -1,0 +1,6 @@
+{
+  "name": "La Mescita - Enoteca Naturale & Bistrot Roma",
+  "description": "Sito web ufficiale di La Mescita a Garbatella (Roma). Vini naturali, cucina stagionale, prenotazione tavoli online e ottimizzazione SEO locale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
